@@ -12,9 +12,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@prisma/client": "5.12.1",
     "@rocketseat/eslint-config": "2.2.2",
     "@types/node": "^20.12.7",
     "eslint": "8.57.0",
+    "prisma": "5.12.1",
     "tsup": "^8.0.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5"
